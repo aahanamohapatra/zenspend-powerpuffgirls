@@ -5,7 +5,6 @@
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/Frontend-React_18-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)
 [![SQLite](https://img.shields.io/badge/Database-SQLite_&_SQLModel-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlmodel.tiangolo.com)
-[![Netlify](https://img.shields.io/badge/Deploy-Netlify_Ready-00C7B7?style=flat&logo=netlify&logoColor=white)](https://app.netlify.com/drop)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
