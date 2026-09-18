@@ -1,0 +1,28 @@
+{
+  "name": "zenspend",
+  "version": "2.0.0",
+  "description": "Behavioral Spend & Friction Guard with AI Price Intelligence and 24h Vault Re-Validation Protocol",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m uvicorn server:app --reload --port 8000",
+    "dev": "python -m uvicorn server:app --reload --port 8000",
+    "serve": "npx serve ."
+  },
+  "keywords": [
+    "fintech",
+    "behavioral-economics",
+    "mindful-spending",
+    "price-intelligence",
+    "dark-pattern-detection",
+    "react",
+    "fastapi"
+  ],
+  "author": "ZenSpend Team",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "framer-motion": "^11.2.10",
+    "lucide-react": "^0.395.0"
+  }
+}

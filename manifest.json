@@ -1,0 +1,16 @@
+{
+  "short_name": "ZenSpend",
+  "name": "ZenSpend - Behavioral Spend & Friction Guard",
+  "description": "Mindful e-commerce wallet and price check interceptor",
+  "start_url": "/",
+  "background_color": "#FDFBF7",
+  "theme_color": "#4A0404",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ]
+}
