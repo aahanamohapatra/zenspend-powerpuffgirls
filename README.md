@@ -11,7 +11,7 @@
 
 ## 🚀 Live Prototype & Demo Links
 
-* 🌐 **Live Web App:** 
+* 🌐 **Live Web App:** https://taupe-swan-d56b50.netlify.app
 * 🎬 **Video Walkthrough / Demo:** 
 * 📊 **Pitch Deck / Presentation:** 
 * 🔑 **Quick Access:** 1-Click **"Try Instant Demo"** login built-in (or use real email/password authentication).
@@ -153,11 +153,3 @@ If someone does not have Python or Node.js installed:
 
 ---
 
-## 🎨 Design Philosophy & Aesthetic Palette
-
-* **Cream Background:** `#FDFBF7` / `#FAF8F3` *(Soothing, non-aggressive canvas)*
-* **Deep Maroon:** `#4A0404` *(Wisdom, grounding, clarity)*
-* **Terracotta Accent:** `#C86B53` *(Warmth, intentional pause & friction)*
-* **Gold Highlights:** `#D4AF37` *(Value consciousness, mindfulness points)*
-* **Sage Green:** `#8A9A86` *(Calm, verified savings & balanced state)*
-* **Typography:** Fraunces Serif (`.zs-display`) + Inter Sans
