@@ -12,9 +12,8 @@
 
 ## 🚀 Live Prototype & Demo Links
 
-* 🌐 **Live Web App (Netlify):** `[👉 PASTE YOUR NETLIFY DEPLOYED LINK HERE]` *(e.g. `https://zenspend.netlify.app`)*
-* 🎬 **Video Walkthrough / Demo:** `[👉 PASTE YOUR DEMO VIDEO LINK HERE]` *(e.g. YouTube / Loom)*
-* 📊 **Pitch Deck / Presentation:** `[👉 PASTE YOUR SLIDES LINK HERE]` *(e.g. Google Slides / Canva / PDF)*
+* 🌐 **Live Web App (Netlify):** https://taupe-swan-d56b50.netlify.app
+* 🎬 **Video Walkthrough / Demo:** `[👉 PASTE YOUR DEMO VIDEO LINK HERE
 * 🔑 **Quick Access:** 1-Click **"Try Instant Demo"** login built-in (or use real email/password authentication).
 
 ---
@@ -138,35 +137,6 @@ If you don't have Python installed, you can still test the entire application:
 1. Double-click **`index.html`** in any modern web browser (Google Chrome, Microsoft Edge, Safari, Firefox, Brave).
 2. The frontend includes **built-in intelligent fallback engines** for all AI price checks, vault re-validation protocols, behavioral friction evaluations, Web Audio sound synthesis, and demo login. Everything works out of the box!
 
----
-
-## 🌐 Deploying to Netlify in 30 Seconds (Drag-and-Drop)
-
-1. Navigate to **[app.netlify.com/drop](https://app.netlify.com/drop)** in your browser (log in or sign up for free).
-2. Drag and drop the **`zenspend_deploy`** folder (or upload **`zenspend_deploy.zip`**) directly into the upload area on Netlify.
-3. Netlify will instantly deploy your site and provide a public URL (e.g., `https://zen-spend-prototype.netlify.app`).
-4. Copy your live link and paste it into the **Live Demo URL** section at the top of this `README.md`!
-
----
-
-## 📁 Repository File Structure
-
-```
-zenspend/
-├── index.html              # Main standalone Single-Page React Web App (Netlify ready)
-├── zenspend_with_db.html   # Primary source HTML file
-├── server.py               # Backend entry point for Uvicorn
-├── main.py                 # FastAPI backend with SQLModel, DB tables, and REST endpoints
-├── zen_spend.db            # Pre-seeded SQLite database for pricing & history
-├── requirements.txt        # Python backend dependencies
-├── run.bat                 # 1-Click local launcher for Windows
-├── run.sh                  # 1-Click local launcher for Mac / Linux
-├── _redirects              # Netlify SPA routing configuration
-└── README.md               # Project documentation & pitch dossier
-```
-
----
-
 ## 📡 API Endpoints Reference
 
 | Method | Endpoint | Description |
@@ -179,19 +149,6 @@ zenspend/
 | `POST` | `/api/log-price-savings` | Logs user savings and counter-purchase conversions |
 | `GET` | `/api/vault-items` | Retrieves active vaulted items from SQLite |
 | `GET` | `/api/purchase-history` | Retrieves logged purchase transactions |
-
----
-
-## 🎨 Design Philosophy & Aesthetic Palette
-
-* **Cream Background:** `#FDFBF7` / `#FAF8F3` *(Soothing, non-aggressive canvas)*
-* **Deep Maroon:** `#4A0404` *(Wisdom, grounding, clarity)*
-* **Terracotta Accent:** `#C86B53` *(Warmth, intentional pause & friction)*
-* **Gold Highlights:** `#D4AF37` *(Value consciousness, mindfulness points)*
-* **Sage Green:** `#8A9A86` *(Calm, verified savings & balanced state)*
-* **Typography:** Fraunces Serif (`.zs-display`) + Inter Sans
-
----
 
 ## 👥 Hackathon Submission Details
 
